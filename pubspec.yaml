@@ -1,7 +1,7 @@
 name: sa4_migration_kit
 description: Contains legacy classes from simple_animations 4.x for a step by step migration to version 5.x
 version: 1.0.0
-homepage:
+homepage: https://github.com/felixblaschke/sa4_migration_kit_package
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
